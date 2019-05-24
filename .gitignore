@@ -3,3 +3,5 @@
 **/nbproject/Package-*.bash
 build/
 nbbuild/
+nbdist/
+.nb-gradle/
